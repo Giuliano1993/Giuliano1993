@@ -1,18 +1,18 @@
-## Hi everyone
+## Hi everyone ✌️
 
 Hi, I'm Giuliano and I'm a freelance full stack web developer based in Rome.
  I work as developer since i was 23, while i was taking a literature degree, since i really have many different interests and believe in the power of having a flexible mind.
-Coding for me is a way of playing around. It really feels like doing lego-like stuff, and really can't have enough of this digital-artisan like sensation
+Coding for me is a way of playing around. It really feels like doing lego-like stuff, and really can't have enough of this digital-artisan like sensation 🛠️
 
-I lately started also teaching junior developers and writing dev articles. In the last years the love for sharing knowledge has grown in me more and more,found its way in my everyday life, and couldn't be more happy and satisfied with it. 
+I lately started also teaching junior developers and writing dev articles. In the last years the love for sharing knowledge has grown in me more and more,found its way in my everyday life, and couldn't be more happy and satisfied with it. ❤️
 
-So if you want start a conversation about dev, having some fun coding together, sharing and build some ideas, reach out and let's enjoy.
+So if you want start a conversation about dev, having some fun coding together, sharing and build some ideas, reach out and let's enjoy. 😁
 
 <table>
 <tr>
 <td>
 
-## My favourite languages 🖥️
+## 🖥️ My favourite languages 
 - PHP 🐘
 - Python 🐍
 - Javascript <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="15px">
