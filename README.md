@@ -26,4 +26,15 @@ So if you want start a conversation about dev, having some fun coding together, 
 - [One Api to Git them all](https://dev.to/giuliano1993/one-api-to-git-them-all-e8c) -  [Repo](https://github.com/Giuliano1993/git-providers-article)
 
 
-</td></tr></table>
+</td></tr>
+<tr>
+ <td colspan="2">
+
+  ### Where you can find me
+  
+  <a href="https://twitter.com/gosty93"><img src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" title="twitter" alt="twitter" width="25"/></a> 
+  <a href="https://www.linkedin.com/in/giuliano-gostinfini/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin" width="25"/></a> 
+  <a href="https://dev.to/giuliano1993"><img src="https://github.com/Giuliano1993/Giuliano1993/blob/main/devLogo.png" title="Devto" alt="Devto" width="25"/></a> 
+ </td>
+</tr>
+</table>
