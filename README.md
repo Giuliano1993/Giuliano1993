@@ -1,4 +1,5 @@
 <img src="https://github.com/Giuliano1993/Giuliano1993/blob/main/0002.png">
+
 ## Hi everyone ✌️
 
 Hi, I'm Giuliano and I'm a freelance full stack web developer based in Rome.
