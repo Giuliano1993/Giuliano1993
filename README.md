@@ -26,6 +26,7 @@ So if you want start a conversation about dev, having some fun coding together, 
 
 - [The power of magic methods and late static binding](https://dev.to/giuliano1993/the-power-of-magic-methods-and-late-static-binding-4bj3) - [Repo](https://github.com/Giuliano1993/MagicMethodsAndLateBindingArticle)
 - [One Api to Git them all](https://dev.to/giuliano1993/one-api-to-git-them-all-e8c) -  [Repo](https://github.com/Giuliano1993/git-providers-article)
+- [API && SSH: Create and setup a server with Python and Digital Ocean](https://dev.to/giuliano1993/api-ssh-create-and-setup-a-server-with-python-and-digital-ocean-58e2) -  [Repo](https://github.com/Giuliano1993/doManager)
 
 
 </td></tr>
