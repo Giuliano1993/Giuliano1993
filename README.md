@@ -18,7 +18,7 @@ So if you want start a conversation about dev, having some fun coding together, 
 - PHP 🐘
 - Python 🐍
 - Javascript <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="15px">
-## 📚 Actually studying
+## 📚 Currently learning
 - Rust 🦀
 
 </td>
