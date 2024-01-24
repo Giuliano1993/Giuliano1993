@@ -30,6 +30,7 @@ So if you want start a conversation about dev, having some fun coding together, 
 - [One Api to Git them all](https://dev.to/giuliano1993/one-api-to-git-them-all-e8c) -  [Repo](https://github.com/Giuliano1993/git-providers-article)
 - [API && SSH: Create and setup a server with Python and Digital Ocean](https://dev.to/giuliano1993/api-ssh-create-and-setup-a-server-with-python-and-digital-ocean-58e2) -  [Repo](https://github.com/Giuliano1993/doManager)
 - [Making some SOLID points](https://dev.to/giuliano1993/making-some-solid-points-bp1) - [Repo](https://github.com/Giuliano1993/SOLID-explained-by-examples)
+- [Programmatically deploy your Github repo on Netlify](https://dev.to/giuliano1993/programmatically-deploy-your-github-on-netlify-3lp0) - [Repo](https://dev.to/giuliano1993/programmatically-deploy-your-github-on-netlify-3lp0)
 
 
 </td></tr>
