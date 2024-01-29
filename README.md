@@ -11,6 +11,21 @@ I lately started also teaching junior developers and writing dev articles. In th
 So if you want start a conversation about dev, having some fun coding together, sharing and build some ideas, reach out and let's enjoy. 😁
 
 <table>
+ <tr>
+  <td>
+
+ ## 🛠️ Currently working on 
+ - [Make Js Component](https://github.com/Giuliano1993/make-js-component)
+ - [ServerMan](https://github.com/Giuliano1993/serverMan)
+   
+  </td>
+  <td>
+
+## 📚 Currently learning
+- Rust 🦀
+   
+  </td>
+ </tr>
 <tr>
 <td>
 
@@ -18,8 +33,6 @@ So if you want start a conversation about dev, having some fun coding together, 
 - PHP 🐘
 - Python 🐍
 - Javascript <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="15px">
-## 📚 Currently learning
-- Rust 🦀
 
 </td>
 <td valign="top" width="50%">
