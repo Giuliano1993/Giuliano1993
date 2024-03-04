@@ -15,7 +15,7 @@ So if you want start a conversation about dev, having some fun coding together, 
   <td>
 
  ## 🛠️ Currently working on 
- - [Make Js Component](https://github.com/Giuliano1993/make-js-component)
+ - [Make Js Component](https://github.com/Giuliano1993/make-js-component) / [Make Js Component VSC Extension](https://github.com/Giuliano1993/make-js-component-vscode)
  - [ServerMan](https://github.com/Giuliano1993/serverMan)
    
   </td>
